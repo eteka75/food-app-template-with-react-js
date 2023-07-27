@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import HealineCards from './components/HealineCards';
 import Foods from './components/Foods';
 import Category from './components/Category';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
        <HealineCards />
        <Foods />
        <Category />
+       <Footer />
     </div>
   );
 }
